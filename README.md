@@ -21,7 +21,7 @@ GUI를 이용하여 상대방이 보낸 내용과 내가 보낸 내용을 한눈
 
 기능 <br>
 1. 기존 채팅방 기능에서 숫자야구 맞추는 기능을 추가함 <br>
-![image](https://user-images.githubusercontent.com/71125201/122163666-7eb09600-ceb0-11eb-8678-31d6820d7a30.png)<br>
+
 2. 숫자야구 숫자는 서버에서 랜덤으로 값을 정합니다.<br>
 <br>
 3. 맨 처음 입력하는 것은 닉네임 입력<br>
@@ -41,7 +41,7 @@ GUI를 이용하여 상대방이 보낸 내용과 내가 보낸 내용을 한눈
 3. 일반적인 채팅 입력시 화면<br>
 ![image](https://user-images.githubusercontent.com/71125201/122165829-ba009400-ceb3-11eb-9d89-9fde36757832.png)
 <br>
-5. 서로다른 숫자 4자리 입력시 <br>
+5. 서로다른 숫자 4자리 입력시 숫자야구 결과 출력<br>
 ![image](https://user-images.githubusercontent.com/71125201/122166065-08159780-ceb4-11eb-89f3-56806a78dc91.png)
 <br>
 
@@ -49,8 +49,7 @@ GUI를 이용하여 상대방이 보낸 내용과 내가 보낸 내용을 한눈
 ![image](https://user-images.githubusercontent.com/71125201/122166278-562a9b00-ceb4-11eb-98e4-33f3262acd7c.png)
 <br>
 7. 4스트라이크가 나오면 우승자가 나오고 서버가 종료됨 <br>
-![Uploading image.png…]
-
+![image](https://user-images.githubusercontent.com/71125201/122166635-dc46e180-ceb4-11eb-905f-e59aa3b53664.png)
 
 
 
