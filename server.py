@@ -34,8 +34,8 @@ class ChatClient:  # 클라이언트 클래스 선언
         self.id = None  # 사용자 id
         self.soc = soc  # 사용자와 1:1 통신할 소켓
         self.nb=numberBaseball() #숫자야구 객체선언
-        #self.nb.computer=nb #숫자야구 배열
-        self.nb.computer = [1,2,3,4]  # 숫자야구 배열
+        self.nb.computer=nb #숫자야구 배열
+
 
     def readMsg(self): # 메시지 읽어들이기
         self.id = self.soc.recv(1024).decode() # 해당 클라이언트의 소켓의 데이터를 받고 문자열로 변환하기 위해 디코딩하여 id에 저장
